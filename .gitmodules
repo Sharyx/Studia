@@ -1,0 +1,3 @@
+[submodule "subrepo"]
+	path = subrepo
+	url = git@github.com:Sharyx/subrepo.git
