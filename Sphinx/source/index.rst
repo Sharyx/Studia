@@ -11,4 +11,3 @@ Programowanie obiektowe
    zmienne
    hermetyzacja
    dziedziczenie
-   ...
